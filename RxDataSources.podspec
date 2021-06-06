@@ -38,8 +38,6 @@ data
 
   s.source_files = 'Sources/RxDataSources/**/*.swift'
   s.dependency 'Differentiator', '~> 5.0'
-  s.dependency 'RxSwift', '~> 6.0'
-  s.dependency 'RxCocoa', '~> 6.0'
 
   s.ios.deployment_target = '9.0'
   s.tvos.deployment_target = '9.0'
